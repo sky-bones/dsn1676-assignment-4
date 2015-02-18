@@ -1,5 +1,6 @@
 html {
-  font: normal 100%/1.5 Georgia,serif;
+  font: normal 100%/1.5 Arial,sans-serif;
+  color: white;
 }
 
 @media only screen and (min-width: 60em) {
@@ -209,4 +210,8 @@ sub {
 .gutter-quarter, .gutter-1-4 {
   padding-left: 0.3750rem;
   padding-right: 0.3750rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Chewy', cursive;
 }
